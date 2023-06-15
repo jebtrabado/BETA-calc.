@@ -1,2 +1,2 @@
-# BETA-calc.
-A beta calculator for stocks using the historical data from ph.investing
+# BETA-calc. WIP
+A beta calculator for stocks using the historical data downloaded from ph.investing
